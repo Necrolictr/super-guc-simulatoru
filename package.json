@@ -1,0 +1,8 @@
+{
+  "name": "super-guc-simulatoru",
+  "version": "1.0.0",
+  "description": "Super Guc Simulatoru",
+  "dependencies": {
+    "@capacitor/core": "^6.0.0"
+  }
+}
